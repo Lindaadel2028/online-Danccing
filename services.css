@@ -1,0 +1,77 @@
+h1 {
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+h3 {
+    color: aqua;
+    font-family: 'Open Sans', sans-serif;
+}
+p {
+    color: white;
+    text-align: center;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+.video-container video {
+    width: 33.33%;
+    max-width: 100%;
+    height: auto;
+    margin-right: 10px; 
+  }
+  
+  .video-container video:last-child {
+    margin-right: 0; 
+  }
+  header {
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .video-container {
+    display: flex;
+  }
+  
+  .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    position: relative;
+  }
+  
+  .video-container video {
+    width: 33.33%;
+    max-width: 100%;
+    height: auto;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .video-container video:last-child {
+    margin-right: 0;
+  }
+ 
+  li {
+    color: aqua;
+  
+  }
+  .pricing {
+    color: aqua;
+    font-family: 'Open Sans', sans-serif;
+}
+hr {
+    color: aqua;
+}
+
+table {
+    color: aqua;   
+}
+.pricing {
+    color: aqua;   
+}
+.contact {
+    color: aqua;   
+}

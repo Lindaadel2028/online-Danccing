@@ -1,0 +1,23 @@
+img {
+    height: 400px;
+}
+h1 {
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}
+h3 {
+    color: aqua;
+    font-family: 'Open Sans', sans-serif;
+}
+p {
+    color: white;
+    text-align: center;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+.cellspacing {
+    height: 100px;
+}
